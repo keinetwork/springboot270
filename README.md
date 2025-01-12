@@ -1,3 +1,4 @@
+* CoolSms
 - /api/sms/send
 1. Coolsms 계정을 생성하고 API 키와 시크릿을 발급받습니다.
 2. application.properties에 발급받은 키와 시크릿, 그리고 발신자 번호를 설정합니다. 
